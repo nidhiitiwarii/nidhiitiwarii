@@ -1,6 +1,6 @@
 ![logo](https://github.com/nidhiitiwarii/nidhiitiwarii/blob/main/601014116770475.6068beff4640a.gif)
 <h1 align="center">Hi 👋, I'm Nidhi Tiwari</h1>
-<h3 align="center">I am Data Analyist</h3>
+<h3 align="center">I am Data Analyst</h3>
 
 <img align="right" alt="Kryptora" width="400" src="https://github.com/codewithkryptora/CodeWithKryptora/blob/main/programmer.gif">
 
