@@ -1,4 +1,4 @@
-![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/header_gif.gif)
+![logo](https://github.com/nidhiitiwarii/nidhiitiwarii/blob/main/601014116770475.6068beff4640a.gif)
 <h1 align="center">Hi 👋, I'm Nidhi Tiwari</h1>
 <h3 align="center">I am Data Analyist</h3>
 
